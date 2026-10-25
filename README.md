@@ -207,5 +207,3 @@ Clang-Format is used for formatting the code. This guarantees that code is consi
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Interested in more information or details?** Reach out to me on [LinkedIn](https://linkedin.com/in/tiespetersen), would love to answer questions and connect!
