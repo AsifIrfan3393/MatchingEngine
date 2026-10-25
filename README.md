@@ -2,7 +2,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
-# Order Book Matching Engine
+# Matching Engine
 
 A high-performance, single-threaded C++ order book matching engine built for low-latency order matching. This project demonstrates optimized matching logic and efficient order book data structures, achieving sub-microsecond latency on modern hardware.
 
